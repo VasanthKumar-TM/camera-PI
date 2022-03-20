@@ -1,0 +1,27 @@
+
+body {
+font-family: 'cinzel', serif;
+    background-color: black;
+}
+
+
+
+h1{
+  color: #00ffff;
+  font-family: #00FFFF;
+
+
+
+}
+
+
+.card{
+  margin-top: 110px;
+  padding: 30px;
+      background-color: #232023;
+}
+
+
+.heading{
+font-size: 60px;
+}
